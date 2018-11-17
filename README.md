@@ -5,12 +5,14 @@ The goal of this project is to create a simple script that opens a report in ERP
 
 An authentication function still needs added to get this working.
 
-##Dependencies:
+## Dependencies
 * Python
 * pip
 * Selenium
+* geckodriver
+* Mozilla Firefox
 
-##Directions
+## Directions
 
 1. Ensure Python is installed, along with pip
 1. Install selenium `pip install selenium --user`
